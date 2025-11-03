@@ -1,0 +1,88 @@
+{
+  "HomePage": {
+    "title": "Olá Mundo! (Funcionou!)"
+  },
+  "Navbar": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "Metadata": {
+    "title": "Portfólio | Benny Nobre - Desenvolvedor Full-Stack",
+    "description": "Portfólio de Benny Lucas Nobre de Almeida, Desenvolvedor Full-Stack especializado em Angular, React, Next.js, Node.js e Java."
+  },
+  "AboutMe": {
+    "title": "Sobre Mim",
+    "description": "<p>Desenvolvedor Full-Stack que adora construir e entender como as coisas funcionam, do back-end robusto à interface interativa.</p><p>Minha jornada na tecnologia começou na curiosidade, o que rapidamente evoluiu para uma paixão por programação. Minha vontade de entender o \"quadro completo\" me levou naturalmente para o desenvolvimento Full-Stack.</p><p>Atualmente, atuo no <b>LAB LDI</b>, onde colaboro no desenvolvimento de um website altamente responsivo e interativo focado em acessibilidade para pessoas com deficiências visuais. Meu dia a dia é focado em <b>Angular</b> e <b>Java</b>, entregando soluções de alta qualidade e fáceis de manter.</p><p>Paralelamente, dedico meu tempo a explorar e construir projetos pessoais com <b>React, Next.js e Node.js</b>, mantendo-me sempre atualizado com as últimas tendências do ecossistema JavaScript.</p>",
+    "downloadButton": "Download CV",
+    "CurriculumUrl": "/Curriculum_BENNY-BR.pdf"
+  },
+  "Projects": {
+    "title": "Meus Projetos",
+    "valorant-tracker": {
+      "title": "Valorant Tracker",
+      "description": "Um tracker de estatísticas de Valorant com dashboard de performance, histórico de partidas e análise de agentes.",
+      "imageUrl": "/images/PlayerModal.png"
+    },
+    "portfolio-v1": {
+      "title": "Portfólio Pessoal v1",
+      "description": "Meu portfólio pessoal anterior, construído para aprender os fundamentos do HTML e CSS."
+    }
+  },
+  "Experience": {
+    "title": "Experiência e Formação",
+    "lab-ldi": {
+      "role": "Desenvolvedor Full-Stack",
+      "entity": "LAB LDI",
+      "dateStart": "NOV 2023",
+      "dateEnd": "ATUALMENTE",
+      "description": "<p>Desenvolvo e mantenho um website focado em acessibilidade, garantindo que pessoas com deficiências visuais tenham acesso a cursos de aprendizado. Meu trabalho diário envolve uma arquitetura de microsserviços com <b>Java</b> e a construção de interfaces interativas com <b>Angular</b>.</p>"
+    },
+    "grupo-escalada": {
+      "role": "Desenvolvedor Front-End Júnior",
+      "entity": "Grupo Escalada | e-commerce",
+      "dateStart": "JUN 2023",
+      "dateEnd": "SET 2023",
+      "description": "<p>Participei ativamente do desenvolvimento de um site de e-commerce, seguindo a metodologia SCRUM. Fui responsável por construir componentes de interface reutilizáveis usando <b>React.js</b>, <b>Next.js</b> e <b>Tailwind CSS</b>, e colaborei com a integração do front-end com o back-end em <b>Node.js</b>.</p>"
+    },
+    "dell-lead": {
+      "role": "Desenvolvedor Web",
+      "entity": "Dell Lead",
+      "dateStart": "JUN 2022",
+      "dateEnd": "FEV 2023",
+      "description": "<p>Projeto AppTalk: Desenvolvi uma aplicação inovadora para mediar a interação entre usuários com deficiência auditiva e ouvintes. O desafio envolveu a integração de bibliotecas complexas como <b>MediaPipe</b> (para IA) e <b>Three.js</b> (para 3D) em uma aplicação <b>React</b>, tudo orquestrado com <b>Nest.js</b> e <b>RabbitMQ</b>.</p>"
+    },
+    "devindev": {
+      "role": "Desenvolvedor Front-End",
+      "entity": "DevInDev - Freelancer",
+      "dateStart": "N/A",
+      "dateEnd": "N/A",
+      "description": "<p>Desenvolvi uma landing page completa para o projeto SouElo. Fui responsável por todo o ciclo, desde a configuração do ambiente com <b>Docker</b> até a entrega da interface em <b>React.js</b> e <b>Next.js</b>.</p>"
+    },
+    "unifor": {
+      "role": "Superior em Análise e Desenvolvimento de Sistemas",
+      "entity": "Universidade de Fortaleza (UNIFOR)",
+      "dateStart": "JUL 2024",
+      "dateEnd": "Conclusão em DEZ 2026",
+      "description": "<p>Formação superior focada em análise e desenvolvimento de software.</p>"
+    }
+  },
+   "Contact": {
+    "title": "Entre em Contato",
+    "description": "Estou sempre aberto a discutir novos projetos, oportunidades de trabalho ou apenas trocar algumas ideias. Sinta-se à vontade para me contatar!",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "emailCopy": "Copiar E-mail",
+    "emailCopied": "E-mail Copiado!"
+  },
+  "Footer": {
+    "copyright": "© {year} Benny Nobre. Todos os direitos reservados."
+  },
+  "Tooltips": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "theme": "Mudar Tema",
+    "language": "Mudar Idioma"
+  }
+}
