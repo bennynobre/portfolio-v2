@@ -5,10 +5,9 @@ import './globals.css';
 import {routing} from '@/i18n/routing';
 import {notFound} from 'next/navigation';
 import { ThemeProvider } from '@/components/layout/ThemeProvider';
-import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 import type { Metadata } from 'next';
-import { FloatingDock } from '@/components/layout/FloatingDock';
+import { Navigation } from '@/components/layout/Navigation';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -73,14 +72,15 @@ export default async function LocaleLayout({children, params}: Props) {
       <ThemeProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>
             <div className="flex flex-col min-h-screen">
-              <Navbar />
+
+              <Navigation />
+              
               <main className="flex-grow">
                 {children}
               </main>
               <Footer /> 
             </div>
 
-            <FloatingDock />
 
           </NextIntlClientProvider>
         </ThemeProvider>

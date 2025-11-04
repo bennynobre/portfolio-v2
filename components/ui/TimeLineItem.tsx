@@ -26,14 +26,14 @@ export function TimelineItem({
 
   return (
     <motion.li
-      className="mb-10 ms-6"
+      className="relative mb-10 ms-6"
       initial={{ opacity: 0, x: -20 }}
       whileInView={{ opacity: 1, x: 0 }}
       viewport={{ once: false }}
-      transition={{ duration: 1 }}
+      transition={{ duration: 0.5 }}
     >
       <span className="absolute flex items-center justify-center w-8 h-8 
-                   rounded-full -start-4 
+                   rounded-full -start-10 
                    ring-8 
                    bg-sky-100 text-sky-700 
                    dark:bg-sky-900 dark:text-sky-300

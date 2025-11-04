@@ -10,8 +10,12 @@
     "contact": "Contact"
   },
   "AboutMe": {
+    "hero": {
+      "name": "Benny Lucas Nobre de Almeida",
+      "title": "Full-Stack Developer"
+    },
     "title": "About Me",
-    "description": "<p>Full-Stack Developer who loves building and understanding how things work, from the robust back-end to the interactive interface.</p><p>My journey in tech began with curiosity, which quickly evolved into a passion for programming. My desire to understand the \"bigger picture\" naturally led me to Full-Stack development.</p><p>Currently, I work at <b>LAB LDI</b>, where I collaborate on developing a highly responsive and interactive website focused on accessibility for visually impaired people. My day-to-day work is focused on <b>Angular</b> and <b>Java</b>, delivering high-quality, maintainable solutions.</p><p>In parallel, I dedicate my time to exploring and building personal projects with <b>React, Next.js, and Node.js</b>, always keeping up-to-date with the latest trends in the JavaScript ecosystem.</p>",
+    "description": "<p>Full-Stack Developer focused on delivering high-impact solutions, with proficiency in <b>Angular</b> and <b>Java</b>, and practical experience in <b>React, Next.js, and Node.js</b> through robust personal projects.</p><p>My passion for technology and complex challenges provided me the opportunity to collaborate at two distinct times with R&D (Research and Development) labs partnered with <b>Dell Technologies</b>.</p><p>I started in the <b>Dell Lead</b> program (2022-2023), where I worked on innovative projects with AI and React. After a break, I was rehired (in 2023) by <b>LAB LDI</b> to take on a Full-Stack role, where I now work on developing large-scale accessibility platforms.</p>",
     "downloadButton": "Download Resume",
     "CurriculumUrl": "/Curriculum_BENNY-EN.pdf"
   },
@@ -33,7 +37,7 @@
       "entity": "LAB LDI",
       "dateStart": "NOV 2023",
       "dateEnd": "PRESENT",
-      "description": "<p>I develop and maintain a website focused on accessibility, ensuring visually impaired individuals can access learning courses. My daily work involves a microservices architecture with <b>Java</b> and building interactive interfaces with <b>Angular</b>.</p>"
+      "description": "<p>I work as a full-stack developer on a website focused on accessibility, delivering a solution that allows people with visual and hearing impairments to consume online courses. My daily work is focused on the microservices architecture with <b>Java</b> and the interactive interface with <b>Angular</b>.</p>"
     },
     "grupo-escalada": {
       "role": "Junior Front-End Developer",
@@ -47,7 +51,7 @@
       "entity": "Dell Lead",
       "dateStart": "JUN 2022",
       "dateEnd": "FEB 2023",
-      "description": "<p>AppTalk Project: I developed an innovative application to mediate interaction between users with hearing and auditory impairments. The challenge involved integrating complex libraries like <b>MediaPipe</b> (for AI) and <b>Three.js</b> (for 3D) into a <b>React</b> application, all orchestrated with <b>Nest.js</b> and <b>RabbitMQ</b>.</p>"
+      "description": "<p>Through the <b>Dell Lead</b> program, I participated in Project AppTalk, an innovative application to mediate interaction between users with hearing and auditory impairments. The technical challenge involved integrating <b>MediaPipe</b> (AI) and <b>Three.js</b> (3D) into a <b>React</b> application.</p>"
     },
     "devindev": {
       "role": "Front-End Developer",

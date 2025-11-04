@@ -22,11 +22,11 @@ export function LanguageSwitcher() {
     <button
       onClick={onClick}
       disabled={isPending}
-      className="flex items-center gap-2 p-2 rounded-md 
-                 text-zinc-600 hover:text-zinc-900 
-                 dark:text-zinc-400 dark:hover:text-white 
-                 hover:bg-zinc-100 dark:hover:bg-zinc-800 
-                 transition-colors"
+      className="flex items-center gap-1 p-2 rounded-lg 
+                 hover:bg-zinc-100/70 dark:hover:bg-zinc-800/70 
+                 text-zinc-600 dark:text-zinc-400
+                 hover:text-black dark:hover:text-white
+                 transition-all duration-200 hover:scale-110"
     >
       <Globe size={18} />
       <span className="font-medium uppercase">{otherLocale}</span>

@@ -19,7 +19,11 @@ export function ThemeSwitcher() {
   return (
     <button
       onClick={() => setTheme(isDark ? 'light' : 'dark')}
-      className="p-2 rounded-md hover:bg-zinc-200 dark:hover:bg-zinc-800 transition-colors"
+      className="p-2 rounded-lg 
+                 hover:bg-zinc-100/70 dark:hover:bg-zinc-800/70 
+                 text-zinc-600 dark:text-zinc-400
+                 hover:text-black dark:hover:text-white
+                 transition-all duration-200 hover:scale-110"
       aria-label={isDark ? "Ativar modo claro" : "Ativar modo escuro"}
     >
       {isDark ? <Sun size={18} /> : <Moon size={18} />}

@@ -13,8 +13,12 @@
     "description": "Portfólio de Benny Lucas Nobre de Almeida, Desenvolvedor Full-Stack especializado em Angular, React, Next.js, Node.js e Java."
   },
   "AboutMe": {
+    "hero": {
+      "name": "Benny Nobre",
+      "title": "Desenvolvedor Full-Stack"
+    },
     "title": "Sobre Mim",
-    "description": "<p>Desenvolvedor Full-Stack que adora construir e entender como as coisas funcionam, do back-end robusto à interface interativa.</p><p>Minha jornada na tecnologia começou na curiosidade, o que rapidamente evoluiu para uma paixão por programação. Minha vontade de entender o \"quadro completo\" me levou naturalmente para o desenvolvimento Full-Stack.</p><p>Atualmente, atuo no <b>LAB LDI</b>, onde colaboro no desenvolvimento de um website altamente responsivo e interativo focado em acessibilidade para pessoas com deficiências visuais. Meu dia a dia é focado em <b>Angular</b> e <b>Java</b>, entregando soluções de alta qualidade e fáceis de manter.</p><p>Paralelamente, dedico meu tempo a explorar e construir projetos pessoais com <b>React, Next.js e Node.js</b>, mantendo-me sempre atualizado com as últimas tendências do ecossistema JavaScript.</p>",
+    "description": "<p>Desenvolvedor Full-Stack focado em entregar soluções de alto impacto, com domínio em <b>Angular</b> e <b>Java</b>, e experiência prática em <b>React, Next.js e Node.js</b> através de projetos pessoais robustos.</p><p>Minha paixão por tecnologia e desafios complexos me proporcionou a oportunidade de colaborar em dois momentos distintos com laboratórios de P&D (Pesquisa e Desenvolvimento) parceiros da <b>Dell Technologies</b>.</p><p>Iniciei no programa <b>Dell Lead</b> (2022-2023), onde trabalhei em projetos inovadores com IA e React. Após um intervalo, fui recontratado (em 2023) pelo <b>LAB LDI</b> para assumir um papel Full-Stack, onde hoje atuo no desenvolvimento de plataformas de acessibilidade em larga escala.</p>",
     "downloadButton": "Download CV",
     "CurriculumUrl": "/Curriculum_BENNY-BR.pdf"
   },
@@ -37,7 +41,7 @@
       "entity": "LAB LDI",
       "dateStart": "NOV 2023",
       "dateEnd": "ATUALMENTE",
-      "description": "<p>Desenvolvo e mantenho um website focado em acessibilidade, garantindo que pessoas com deficiências visuais tenham acesso a cursos de aprendizado. Meu trabalho diário envolve uma arquitetura de microsserviços com <b>Java</b> e a construção de interfaces interativas com <b>Angular</b>.</p>"
+      "description": "<p>Atuo como fullstack no desenvolvimento de um website focado em acessibilidade, entregando uma solução que permite a pessoas com deficiências visuais e auditivas consumir cursos online. Meu trabalho diário é focado na arquitetura de microsserviços com <b>Java</b> e na interface interativa com <b>Angular</b>.</p>"
     },
     "grupo-escalada": {
       "role": "Desenvolvedor Front-End Júnior",
@@ -51,7 +55,7 @@
       "entity": "Dell Lead",
       "dateStart": "JUN 2022",
       "dateEnd": "FEV 2023",
-      "description": "<p>Projeto AppTalk: Desenvolvi uma aplicação inovadora para mediar a interação entre usuários com deficiência auditiva e ouvintes. O desafio envolveu a integração de bibliotecas complexas como <b>MediaPipe</b> (para IA) e <b>Three.js</b> (para 3D) em uma aplicação <b>React</b>, tudo orquestrado com <b>Nest.js</b> e <b>RabbitMQ</b>.</p>"
+      "description": "<p>Através do programa <b>Dell Lead</b>, participei do Projeto AppTalk, uma aplicação inovadora para mediar a interação entre usuários com deficiência auditiva e ouvintes. O desafio técnico envolveu integrar <b>MediaPipe</b> (IA) e <b>Three.js</b> (3D) em uma aplicação <b>React</b>.</p>"
     },
     "devindev": {
       "role": "Desenvolvedor Front-End",
