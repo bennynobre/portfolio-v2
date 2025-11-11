@@ -18,7 +18,7 @@
       "title": "Desenvolvedor Full-Stack"
     },
     "title": "Sobre Mim",
-    "description": "<p>Desenvolvedor Full-Stack focado em entregar soluções de alto impacto, com domínio em <b>Angular</b> e <b>Java</b>, e experiência prática em <b>React, Next.js e Node.js</b> através de projetos pessoais robustos.</p><p>Minha paixão por tecnologia e desafios complexos me proporcionou a oportunidade de colaborar em dois momentos distintos com laboratórios de P&D (Pesquisa e Desenvolvimento) parceiros da <b>Dell Technologies</b>.</p><p>Iniciei no programa <b>Dell Lead</b> (2022-2023), onde trabalhei em projetos inovadores com IA e React. Após um intervalo, fui recontratado (em 2023) pelo <b>LAB LDI</b> para assumir um papel Full-Stack, onde hoje atuo no desenvolvimento de plataformas de acessibilidade em larga escala.</p>",
+    "description": "<p>Desenvolvedor Full-Stack focado em entregar soluções de alto impacto, com domínio em <b>Angular</b> e <b>Java</b>, e experiência prática em <b>React, Next.js e Node.js</b> através de projetos pessoais robustos.</p><p>Minha paixão por tecnologia e desafios complexos me proporcionou a oportunidade de colaborar com laboratórios de P&D (Pesquisa e Desenvolvimento) parceiros da <b>Dell Technologies</b> por mais de 2 anos.</p><p>Minha trajetória nessa parceria começou no programa <b>Dell Lead</b> com projetos inovadores em IA e <b>React</b>. Hoje, no <b>LAB LDI</b>, assumo responsabilidades Full-Stack no desenvolvimento de plataformas de acessibilidade em larga escala, utilizando <b>Java</b> e <b>Angular</b>.</p>",
     "downloadButton": "Download CV",
     "CurriculumUrl": "/Curriculum_BENNY-BR.pdf"
   },
@@ -36,33 +36,34 @@
   },
   "Experience": {
     "title": "Experiência e Formação",
+    "learnMoreButton": "Saiba Mais",
     "lab-ldi": {
       "role": "Desenvolvedor Full-Stack",
       "entity": "LAB LDI",
       "dateStart": "NOV 2023",
       "dateEnd": "ATUALMENTE",
-      "description": "<p>Atuo como fullstack no desenvolvimento de um website focado em acessibilidade, entregando uma solução que permite a pessoas com deficiências visuais e auditivas consumir cursos online. Meu trabalho diário é focado na arquitetura de microsserviços com <b>Java</b> e na interface interativa com <b>Angular</b>.</p>"
+      "description": "<p>Atuo no desenvolvimento de uma solução de acessibilidade que <b>permite</b> a pessoas com deficiências visuais e auditivas consumir cursos online. Meu trabalho diário <b>foca</b> na arquitetura de microsserviços com <b>Java</b> e na interface interativa com <b>Angular</b>.</p>"
     },
     "grupo-escalada": {
       "role": "Desenvolvedor Front-End Júnior",
       "entity": "Grupo Escalada | e-commerce",
       "dateStart": "JUN 2023",
       "dateEnd": "SET 2023",
-      "description": "<p>Participei ativamente do desenvolvimento de um site de e-commerce, seguindo a metodologia SCRUM. Fui responsável por construir componentes de interface reutilizáveis usando <b>React.js</b>, <b>Next.js</b> e <b>Tailwind CSS</b>, e colaborei com a integração do front-end com o back-end em <b>Node.js</b>.</p>"
+      "description": "<p><b></b> Ajudei a lançar um novo site de e-commerce seguindo a metodologia SCRUM. <b></b> Fui responsável por construir componentes reutilizáveis em <b>React.js</b>, <b>Next.js</b> e <b>Tailwind CSS</b>, e colaborei com a integração com o back-end <b>Node.js</b>.</p>"
     },
     "dell-lead": {
       "role": "Desenvolvedor Web",
       "entity": "Dell Lead",
       "dateStart": "JUN 2022",
       "dateEnd": "FEV 2023",
-      "description": "<p>Através do programa <b>Dell Lead</b>, participei do Projeto AppTalk, uma aplicação inovadora para mediar a interação entre usuários com deficiência auditiva e ouvintes. O desafio técnico envolveu integrar <b>MediaPipe</b> (IA) e <b>Three.js</b> (3D) em uma aplicação <b>React</b>.</p>"
+      "description": "<p><b></b> Desenvolvi o Projeto AppTalk, uma aplicação inovadora para mediar a interação entre usuários com deficiência auditiva e ouvintes. <b></b> O desafio envolveu a integração de bibliotecas complexas como <b>MediaPipe</b> (IA) e <b>Three.js</b> (3D) em uma aplicação <b>React</b>.</p>"
     },
     "devindev": {
       "role": "Desenvolvedor Front-End",
       "entity": "DevInDev - Freelancer",
-      "dateStart": "N/A",
-      "dateEnd": "N/A",
-      "description": "<p>Desenvolvi uma landing page completa para o projeto SouElo. Fui responsável por todo o ciclo, desde a configuração do ambiente com <b>Docker</b> até a entrega da interface em <b>React.js</b> e <b>Next.js</b>.</p>"
+      "dateStart": "ABR 2023",
+      "dateEnd": "JUN 2023",
+      "description": "<p><b></b> Entreguei uma landing page completa para o projeto SouElo. <b></b> Fui responsável por todo o ciclo, desde a configuração do ambiente com <b>Docker</b> até a entrega da interface em <b>React.js</b> e <b>Next.js</b>.</p>"
     },
     "unifor": {
       "role": "Superior em Análise e Desenvolvimento de Sistemas",

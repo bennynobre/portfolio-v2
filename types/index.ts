@@ -15,7 +15,8 @@ export interface IExperience {
   entityKey: string; 
   dateStartKey: string; 
   dateEndKey: string; 
-  descriptionKey: string; 
+  descriptionKey: string;
+  learnMoreUrl?: string; 
 }
 
 export interface ISkill {

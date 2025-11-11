@@ -1,8 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Briefcase, GraduationCap } from 'lucide-react'; 
+import { Briefcase, GraduationCap, ArrowUpRight } from 'lucide-react';
 import React from 'react';
+import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 interface TimelineItemProps {
   role: string;
@@ -11,6 +13,7 @@ interface TimelineItemProps {
   dateEnd: string;
   description: React.ReactNode;
   isEducation?: boolean; 
+  learnMoreUrl?: string;
 }
 
 export function TimelineItem({
@@ -19,10 +22,12 @@ export function TimelineItem({
   dateStart,
   dateEnd,
   description,
-  isEducation = false
+  isEducation = false,
+  learnMoreUrl
 }: TimelineItemProps) {
   
   const Icon = isEducation ? GraduationCap : Briefcase;
+  const t = useTranslations('Experience');
 
   return (
     <motion.li
@@ -55,6 +60,22 @@ export function TimelineItem({
         <div className="text-base font-normal text-zinc-700 dark:text-zinc-300 space-y-4">
           {description}
         </div>
+
+        {learnMoreUrl && (
+          <Link
+            href={learnMoreUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 text-sm font-medium
+                       mt-4
+                       text-sky-600 dark:text-sky-400
+                       hover:text-sky-800 dark:hover:text-sky-200
+                       transition-colors"
+          >
+            {t('learnMoreButton')}
+            <ArrowUpRight className="w-4 h-4" />
+          </Link>
+        )}
       </div>
     </motion.li>
   );

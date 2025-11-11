@@ -33,7 +33,7 @@ export function ExperienceSection() {
                 p: (chunks) => <p>{chunks}</p>,
                 b: (chunks) => <strong className="font-semibold">{chunks}</strong>
               })}
-              
+              learnMoreUrl={item.learnMoreUrl}
               isEducation={false}
             />
           ))}

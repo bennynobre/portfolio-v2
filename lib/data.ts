@@ -19,7 +19,8 @@ export const EXPERIENCES: IExperience[] = [
     entityKey: "lab-ldi.entity",
     dateStartKey: "lab-ldi.dateStart",
     dateEndKey: "lab-ldi.dateEnd",
-    descriptionKey: "lab-ldi.description"
+    descriptionKey: "lab-ldi.description",
+    learnMoreUrl: "https://leadfortaleza.com.br/ead/login"
   },
   {
     id: "grupo-escalada",
